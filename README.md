@@ -10,7 +10,7 @@ This project focuses on the **discovery and validation of novel small open readi
 
 The workflow identifies candidate sORFs from transcriptomic data and applies multiple layers of filtering, translation evidence, and functional annotation to obtain **high-confidence translated microproteins**.
 
-##Benchling link
+Benchling link
 https://benchling.com/s/etr-7D2igJSt59EQClohaoSW?m=slm-j8SAZyjmnDi34mRHEaJM
 ---
 
